@@ -1,0 +1,39 @@
+3
+0 1 2 
+3
+a b c
+0
+1
+2
+19
+0 0 c C / CC
+0 0 c B / CB
+0 0 c A / CA
+0 0 b C / BC
+0 0 b B / BB
+0 0 b A / BA
+0 0 a C / AC
+0 0 a B / AB
+0 0 a A / AA
+0 0 c Z / CZ
+0 0 b Z / BZ
+0 0 a Z / AZ
+0 1 c C / ~
+0 1 b B / ~
+0 1 a A / ~
+1 1 c C / ~
+1 1 b B / ~
+1 1 a A / ~
+1 2 ~ Z / ~
+
+--
+0 1 a Z / AZ
+0 1 a A / AA
+1 0 a A / A
+0 2 b A / BBBA
+2 2 b B / BBBB
+2 3 c B / ~
+3 3 c B / ~
+3 3 d A / ~
+3 4 ~ Z / ~
+aaaaaabbccccccddd

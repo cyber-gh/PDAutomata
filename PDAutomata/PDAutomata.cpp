@@ -6,7 +6,7 @@
 #include "PDA.h"
 
 int main(){
-	PDA pda("apd2.in");
+	PDA pda("apd3.in");
 	string word;
 	cin >> word;
 	cout << pda.checkWord(word);
